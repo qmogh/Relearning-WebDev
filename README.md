@@ -1,1 +1,2 @@
-I got a UDEMY course and signed up for a web dev bootcamp. Obviously, this is going to walk me from the very beginning, but I am excited to do this.
+Using a UDEMY bootcamp, online workshops, and experimenting around, this summer I am going to try and learn front-end and back end programming, you can follow my journey here. 
+Check out another repository called "Learning-AppDev"
