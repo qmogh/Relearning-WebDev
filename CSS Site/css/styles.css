@@ -7,16 +7,27 @@ body {
 }
 
 h1 {
-  margin-top:0;
+  margin: 50px auto 0 auto;
   font-family: 'Sacramento', serif;
+  font-size: 5.625rem;
+  color:#66BFBF;
+  line-height:2;
 }
 
 h2 {
   font-family:'Montserrat', serif;
+  font-size:2.5rem;
+  color:#66BFBF;
 }
 
 h3 {
   font-family:'Montserrat', serif;
+  color:#11999E;
+}
+
+
+a {
+  color:#11999E;
 }
 
 .top-container {
@@ -34,14 +45,42 @@ h3 {
 
 }
 
+.skill-row {
+  width:50%;
+  margin:100px auto 100px auto;
+  text-align:left;
+  line-height:2;
+}
 
 .amogh {
   height:150px;
   width:150px;
 }
 
+.program-img {
+  width:25%;
+  float: left;
+  margin-right:30px;
+}
+
+.model-img {
+  width:25%;
+  float:right;
+  margin-left:30px;
+}
+
+.description-one {
+  clear:left;
+
+}
+
+.description-two {
+  clear:right;
+}
+
 .pro {
   text-decoration:underline;
+  font-weight:normal;
 }
 
 .bottom-cloud {
